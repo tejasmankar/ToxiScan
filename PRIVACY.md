@@ -1,14 +1,14 @@
-# Privacy Policy for [ToxiScan]
+# Privacy Policy for ToxiScan
 _Last Updated: May 19, 2025_
 
 ## Introduction
-This Privacy Policy explains how [ToxiScan] ("App") uses your device's camera and handles any related data. We are committed to protecting your privacy and being transparent about our practices.
+This Privacy Policy explains how ToxiScan ("App") uses your device's camera and handles any related data. We are committed to protecting your privacy and being transparent about our practices.
 
 ## Data Controller Information
-[ToxiScan] is provided by [Devtejman]. We act as the data controller for the processing of image data through Google's Gemini API, though we do not store any user data on our servers.
+ToxiScan is provided by Devtejman. We act as the data controller for the processing of image data through Google's Gemini API, though we do not store any user data on our servers.
 
 ## Camera Usage
-[ToxiScan] requests access to your device's camera solely for the purpose of allowing you to take photos that are processed using Google's Gemini API. This functionality is a core feature of our application that enables analysis of the image content to detect toxins.
+ToxiScan requests access to your device's camera solely for the purpose of allowing you to take photos that are processed using Google's Gemini API. This functionality is a core feature of our application that enables analysis of the image content to detect toxins.
 
 ## Data Collection and Processing
 
@@ -34,7 +34,7 @@ This Privacy Policy explains how [ToxiScan] ("App") uses your device's camera an
 
 ## Subscriptions and Billing
 
-[ToxiScan] offers subscription services that are processed and managed entirely through Google Play Billing. Regarding subscription payments:
+ToxiScan offers subscription services that are processed and managed entirely through Google Play Billing. Regarding subscription payments:
 
 - All payment processing is handled by Google Play
 - Payment details are collected and stored by Google, not by us
